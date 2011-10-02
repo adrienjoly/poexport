@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "POExport", "POExport.csdproj", "{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Debug.ActiveCfg = Debug|Pocket PC
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Debug.Build.0 = Debug|Pocket PC
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Debug.Deploy.0 = Debug|Pocket PC
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Release.ActiveCfg = Release|Pocket PC
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Release.Build.0 = Release|Pocket PC
+		{BA157B9F-ACA6-4F1D-B534-EB5D84BFBF09}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
